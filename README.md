@@ -91,4 +91,4 @@ joblib.dump(best_rf, "best_rf_model.pkl")
 
 ## 👨‍💻 Author
 - Developed by **Omar Husnye**  
-- 📧 Contact: [your-email@example.com]  
+- 📧 Contact: [omarhusnye6@gmail.com]  
